@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my PhD thesis
+- 💬 Ask me about Monads, Parser combinators and C#
+- ⚡ Fun fact: I was born in "Gorgan, Iran"
+
 <!--
 **amir734jj/amir734jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
