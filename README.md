@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my PhD thesis
 - 💬 Ask me about Monads, Parser combinators and C#
-- 🤔 I’m looking for help with trying to find memory leak in my Stream-Ripper library 
+- 🤔 I’m looking for help in finding memory leak in my Stream-Ripper library 
 - ⚡ Fun fact: I was born in "Gorgan, Iran"
 
 <!--
