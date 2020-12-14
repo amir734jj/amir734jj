@@ -4,12 +4,11 @@
 - 💬 Ask me about Monads, Parser combinators and C#
 - 🤔 I’m looking for help in finding memory leak in my Stream-Ripper library 
 - ⚡ Fun fact: I was born in "Gorgan, Iran"
+- 📫 linkedin: https://linkedin.com/in/hesamian
 
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="amir734jj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amir734jj&show_icons=true&hide_border=true" />
-
-[linkedin]: https://linkedin.com/in/hesamian
 
 
 <!--
