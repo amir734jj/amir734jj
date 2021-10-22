@@ -7,10 +7,6 @@
 - 📫 How to reach me: https://linkedin.com/in/hesamian / amir@hesamian.com
 
 
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="amir734jj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amir734jj&show_icons=true&hide_border=true" />
-
-
 <!--
 **amir734jj/amir734jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
