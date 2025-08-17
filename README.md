@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my PhD thesis
+- 🔭 I’m ~~currently working~~ finished [my PhD thesis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rYO_XfQAAAAJ&citation_for_view=rYO_XfQAAAAJ:2osOgNQ5qMEC)
 - 💬 Ask me about Monads, Parser combinators and C#
 - 🤔 I’m looking for help in finding memory leak in my Stream-Ripper library 
 - ⚡ Fun fact: I was born in "Gorgan, Iran"
